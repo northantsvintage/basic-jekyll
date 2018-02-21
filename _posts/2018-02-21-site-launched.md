@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ida launches website"
-date: 2014-04-30
+date: 2018-02-21
 ---
 
 Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) 
